@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ystan98
 - 👀 I’m interested in finance and information technology
 - 🌱 I’m currently studying in Singapore Management University
-- 💞️ I’m looking for internship opportunities
+- 💞️ I’m looking for internship opportunities :)
 - 📫 How to reach me @heyitsys <-- telegram
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ystan98)](https://github.com/anuraghazra/github-readme-stats)
