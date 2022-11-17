@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ystan98
-- 👀 I’m interested in finance and information technology
+- 👀 I’m interested in data science and project management
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on fun projects, networking opportunities, internship opportunities
 - 📫 How to reach me @heyitsys <-- telegram
