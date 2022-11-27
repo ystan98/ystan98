@@ -4,9 +4,6 @@
 - 💞️ I’m looking for internship opportunities :)
 - 📫 How to reach me @heyitsys <-- telegram
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ystan98)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---
-ystan98/ystan98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Github Stats
+| <a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card'><img align="center" src="https://github-readme-stats.vercel.app/api?username=ystan98&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt="Yee Sen's Github Stats" /></a> | <a href='https://github.com/anuraghazra/github-readme-stats#top-languages-card'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ystan98&langs_count=8&hide=FreeMarker,PureBasic,html,css&layout=compact&theme=buefy&hide_border=true" alt="Yee Sen's Github Languages" /></a> 
