@@ -8,4 +8,4 @@
 ### Github Stats
 | <a href='https://github.com/anuraghazra/github-readme-stats#github-stats-card'><img align="center" src="https://github-readme-stats.vercel.app/api?username=ystan98&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt="ystan98's Github Stats" /></a> | <a href='https://github.com/anuraghazra/github-readme-stats#top-languages-card'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ystan98&langs_count=8layout=compact&theme=buefy&hide_border=true" alt="ystan98's Github Languages" /></a> |
 | ------------- | ------------- |
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ystan09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
