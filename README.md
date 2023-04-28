@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and project management
 - 🌱 I’m currently studying in Singapore Management University
 - 💞️ I’m looking for internship opportunities :)
-- 📫 How to reach me @heyitsys <-- telegram
+- Are you an API? Because I want to connect with you (Telegram: @heyitsys; Linkedin: https://www.linkedin.com/in/yeesentan/_
 
 
 ### My Github Stats
