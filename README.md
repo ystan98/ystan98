@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ystan98
-- 👀 I’m interested in data science and project management
-- 🌱 I’m currently studying in Singapore Management University
-- 💞️ I’m looking for internship opportunities :)
-- Are you an API? Because I want to connect with you (Telegram: @heyitsys; Linkedin: https://www.linkedin.com/in/yeesentan/)
+- 👋 Hi, I’m @ystan98, currently studying in Singapore Management University
+- 👀 I’m interested in data science and project management and looking for  internship opportunities :)
+- Lastly, are you an API? Because I want to connect with you (Telegram: @heyitsys; Linkedin: https://www.linkedin.com/in/yeesentan/)
 
 
 ### My Github Stats
