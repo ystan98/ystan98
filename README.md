@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ystan98, currently studying in Singapore Management University
 - 👀 I’m interested in data science and project management and looking for  internship opportunities :)
+
+- Are you a repo? Cause I want to check you out & commit to you 
 - Lastly, are you an API? Because I want to connect with you (Telegram: @heyitsys; Linkedin: https://www.linkedin.com/in/yeesentan/)
 
 
